@@ -5,7 +5,7 @@ import glob
 # ======================================================
 # CAMINHOS (Windows)
 # ======================================================
-PATH_JOGOS = r"C:\proj\apostas\analise-pontual\oddsapi.io\jogos\odds-baixadas"
+PATH_JOGOS = r"C:\proj\apostas\api-oddsapi.io\jogos\nao-processadas-odds"
 PATH_ODDS = r"C:\proj\apostas\analise-pontual\oddsapi.io\odds\abril"
 
 def conferir_downloads():
