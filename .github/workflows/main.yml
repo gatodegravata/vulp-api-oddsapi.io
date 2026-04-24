@@ -1,0 +1,38 @@
+name: Executar Processamento de Odds
+
+on:
+  schedule:
+    - cron: '0 9,21 * * *' # 09:00 e 21:00 UTC (06h e 18h Brasília)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Permissão necessária para o Action conseguir fazer o push das mudanças
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar Dependências
+        run: |
+          pip install pandas openpyxl
+
+      - name: Executar Script
+        run: python scripts/processar_dados.py
+
+      - name: Commit e Push dos arquivos gerados
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.xlsx *.csv
+          # O "|| exit 0" evita que o workflow falhe se não houver mudanças nos arquivos
+          git commit -m "Atualizando análise: $(date +'%d/%m/%Y %H:%M')" || exit 0
+          git push
