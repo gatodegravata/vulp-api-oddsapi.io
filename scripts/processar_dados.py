@@ -65,7 +65,7 @@ def processar_dados():
         with open(arquivo, "r") as f:
             jogos = json.load(f)
         for jogo in jogos:
-            if jogo.get("statusName") != "Finished": continue
+            #if jogo.get("statusName") != "Finished": continue
             f_id = jogo.get("fixtureId")
             o_price, o_time, c_price, c_time = extrair_dados_completos_104(f_id)
             dados_finais.append({
