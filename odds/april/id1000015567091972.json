@@ -1,0 +1,691 @@
+{
+  "fixtureId": "id1000015567091972",
+  "bookmakers": {
+    "bet365": {
+      "markets": {
+        "101": {
+          "outcomes": {
+            "101": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 2,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T03:25:39.861Z",
+                    "price": 2.05,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T21:22:11.484Z",
+                    "price": 2,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T09:38:18.562Z",
+                    "price": 2.05,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T19:23:01.493Z",
+                    "price": 2,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "102": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 3.1,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "103": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 3.9,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T03:25:39.861Z",
+                    "price": 3.7,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T21:22:11.484Z",
+                    "price": 3.8,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T09:38:18.562Z",
+                    "price": 3.7,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T19:23:01.493Z",
+                    "price": 3.9,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-25T04:29:51.517Z",
+                    "price": 4.33,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "104": {
+          "outcomes": {
+            "104": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 2.1,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T03:25:39.861Z",
+                    "price": 2.05,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-25T04:29:51.517Z",
+                    "price": 2.1,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "105": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 1.66,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T03:25:39.862Z",
+                    "price": 1.7,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-25T04:29:51.517Z",
+                    "price": 1.66,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "1010": {
+          "outcomes": {
+            "1010": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 0,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "1011": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 0,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "10168": {
+          "outcomes": {
+            "10168": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:06:59.743Z",
+                    "price": 0,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10169": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:06:59.743Z",
+                    "price": 0,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "10208": {
+          "outcomes": {
+            "10208": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 2.75,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T05:42:14.775Z",
+                    "price": 2.87,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T21:28:36.211Z",
+                    "price": 2.75,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T09:32:11.649Z",
+                    "price": 2.87,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T19:38:31.337Z",
+                    "price": 2.75,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10209": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 2,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10210": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 4.75,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T05:42:14.775Z",
+                    "price": 4.5,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-25T04:22:41.502Z",
+                    "price": 4.75,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "10300": {
+          "outcomes": {
+            "10300": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 6,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10301": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 1.12,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "10302": {
+          "outcomes": {
+            "10302": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 4.33,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T05:42:14.775Z",
+                    "price": 4,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T19:38:31.337Z",
+                    "price": 4.33,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10303": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 1.2,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T05:42:14.775Z",
+                    "price": 1.22,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T19:38:31.338Z",
+                    "price": 1.2,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "10336": {
+          "outcomes": {
+            "10336": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 7,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10345": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 6,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10354": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 19,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T03:25:39.862Z",
+                    "price": 17,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T21:22:11.484Z",
+                    "price": 19,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T09:38:18.562Z",
+                    "price": 17,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T19:23:01.493Z",
+                    "price": 19,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10363": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 67,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10372": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:03:21.209Z",
+                    "price": 501,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "10799": {
+          "outcomes": {
+            "10799": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-21T21:29:26.102Z",
+                    "price": 0,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10800": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-21T21:29:26.102Z",
+                    "price": 0,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "10934": {
+          "outcomes": {
+            "10934": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-23T05:37:34.170Z",
+                    "price": 0,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "10935": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-23T05:37:34.170Z",
+                    "price": 0,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "101905": {
+          "outcomes": {
+            "101905": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 1.16,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "101906": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 1.72,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "101907": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 1.4,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "102462": {
+          "outcomes": {
+            "102462": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 2.37,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T05:42:14.775Z",
+                    "price": 2.5,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-25T04:22:41.502Z",
+                    "price": 2.37,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "102471": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 9,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T05:42:14.775Z",
+                    "price": 8.5,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-23T21:28:36.211Z",
+                    "price": 9,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T09:32:11.649Z",
+                    "price": 8.5,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  },
+                  {
+                    "createdAt": "2026-04-24T19:38:31.337Z",
+                    "price": 9,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            },
+            "102480": {
+              "players": {
+                "0": [
+                  {
+                    "createdAt": "2026-04-19T23:10:29.159Z",
+                    "price": 67,
+                    "limit": null,
+                    "active": true,
+                    "exchangeMeta": null
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
