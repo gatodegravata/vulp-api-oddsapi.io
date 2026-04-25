@@ -14,7 +14,7 @@ echo Criando commit com data: %dt%
 git commit -m "Update automatico: %dt%"
 
 echo Subindo para o GitHub (Main)...
-git push origin main
+git push origin main --force
 
 echo.
 echo Tudo pronto! Projeto atualizado no GitHub.
