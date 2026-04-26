@@ -1,0 +1,40 @@
+[
+    {
+        "fixtureId": "id1000024246364973",
+        "participant1Id": 167510,
+        "participant2Id": 52237,
+        "sportId": 10,
+        "tournamentId": 242,
+        "seasonId": null,
+        "statusId": 2,
+        "hasOdds": false,
+        "startTime": "2024-06-28T23:30:00.000Z",
+        "trueStartTime": null,
+        "trueEndTime": "2024-06-29T01:44:40.000Z",
+        "updatedAt": "2025-08-19T11:21:03.746Z",
+        "externalProviders": {
+            "betradarId": 46364973,
+            "mollybetId": null,
+            "opticoddsId": null,
+            "lsportsId": null,
+            "txoddsId": null,
+            "sofascoreId": null,
+            "betgeniusId": null,
+            "flashscoreId": null,
+            "pinnacleId": null,
+            "oddinId": null
+        },
+        "statusName": "Finished",
+        "participant1Name": "New York City FC",
+        "participant1ShortName": "New York City",
+        "participant1Abbr": "NYC",
+        "participant2Name": "Orlando City SC",
+        "participant2ShortName": "Orlando",
+        "participant2Abbr": "ORL",
+        "sportName": "Soccer",
+        "tournamentSlug": "mls",
+        "categorySlug": "usa",
+        "categoryName": "USA",
+        "tournamentName": "MLS"
+    }
+]

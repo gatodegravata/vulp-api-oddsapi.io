@@ -1,0 +1,40 @@
+[
+    {
+        "fixtureId": "id1000024246364411",
+        "participant1Id": 659691,
+        "participant2Id": 5133,
+        "sportId": 10,
+        "tournamentId": 242,
+        "seasonId": null,
+        "statusId": 2,
+        "hasOdds": false,
+        "startTime": "2024-02-22T01:00:00.000Z",
+        "trueStartTime": null,
+        "trueEndTime": "2024-02-22T03:05:45.000Z",
+        "updatedAt": "2025-08-19T10:50:07.714Z",
+        "externalProviders": {
+            "betradarId": 46364411,
+            "mollybetId": null,
+            "opticoddsId": null,
+            "lsportsId": null,
+            "txoddsId": null,
+            "sofascoreId": null,
+            "betgeniusId": null,
+            "flashscoreId": null,
+            "pinnacleId": null,
+            "oddinId": null
+        },
+        "statusName": "Finished",
+        "participant1Name": "Inter Miami CF",
+        "participant1ShortName": "Miami",
+        "participant1Abbr": "MIA",
+        "participant2Name": "Real Salt Lake",
+        "participant2ShortName": "Salt Lake",
+        "participant2Abbr": "RSL",
+        "sportName": "Soccer",
+        "tournamentSlug": "mls",
+        "categorySlug": "usa",
+        "categoryName": "USA",
+        "tournamentName": "MLS"
+    }
+]

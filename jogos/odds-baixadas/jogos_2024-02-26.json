@@ -1,0 +1,40 @@
+[
+    {
+        "fixtureId": "id1000024246364439",
+        "participant1Id": 2513,
+        "participant2Id": 659691,
+        "sportId": 10,
+        "tournamentId": 242,
+        "seasonId": null,
+        "statusId": 2,
+        "hasOdds": false,
+        "startTime": "2024-02-26T02:00:00.000Z",
+        "trueStartTime": null,
+        "trueEndTime": "2024-02-26T04:08:07.000Z",
+        "updatedAt": "2025-08-19T10:50:28.805Z",
+        "externalProviders": {
+            "betradarId": 46364439,
+            "mollybetId": null,
+            "opticoddsId": null,
+            "lsportsId": null,
+            "txoddsId": null,
+            "sofascoreId": null,
+            "betgeniusId": null,
+            "flashscoreId": null,
+            "pinnacleId": null,
+            "oddinId": null
+        },
+        "statusName": "Finished",
+        "participant1Name": "Los Angeles Galaxy",
+        "participant1ShortName": "LA Galaxy",
+        "participant1Abbr": "LAG",
+        "participant2Name": "Inter Miami CF",
+        "participant2ShortName": "Miami",
+        "participant2Abbr": "MIA",
+        "sportName": "Soccer",
+        "tournamentSlug": "mls",
+        "categorySlug": "usa",
+        "categoryName": "USA",
+        "tournamentName": "MLS"
+    }
+]

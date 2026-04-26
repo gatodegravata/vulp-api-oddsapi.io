@@ -1,0 +1,40 @@
+[
+    {
+        "fixtureId": "id1000059453302773",
+        "participant1Id": 324339,
+        "participant2Id": 792240,
+        "sportId": 10,
+        "tournamentId": 594,
+        "seasonId": null,
+        "statusId": 2,
+        "hasOdds": false,
+        "startTime": "2024-08-17T02:00:00.000Z",
+        "trueStartTime": null,
+        "trueEndTime": null,
+        "updatedAt": "2025-08-19T11:41:22.664Z",
+        "externalProviders": {
+            "betradarId": 53302773,
+            "mollybetId": null,
+            "opticoddsId": null,
+            "lsportsId": null,
+            "txoddsId": null,
+            "sofascoreId": null,
+            "betgeniusId": null,
+            "flashscoreId": null,
+            "pinnacleId": null,
+            "oddinId": null
+        },
+        "statusName": "Finished",
+        "participant1Name": "Universities of Canterbury AFC",
+        "participant1ShortName": null,
+        "participant1Abbr": null,
+        "participant2Name": "Dunedin City Royals FC",
+        "participant2ShortName": "Dunedin City Royals",
+        "participant2Abbr": "ROY",
+        "sportName": "Soccer",
+        "tournamentSlug": "national-league",
+        "categorySlug": "new-zealand",
+        "categoryName": "New Zealand",
+        "tournamentName": "National League"
+    }
+]

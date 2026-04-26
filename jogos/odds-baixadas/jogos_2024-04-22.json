@@ -1,0 +1,40 @@
+[
+    {
+        "fixtureId": "id1000024246364661",
+        "participant1Id": 2513,
+        "participant2Id": 21825,
+        "sportId": 10,
+        "tournamentId": 242,
+        "seasonId": null,
+        "statusId": 2,
+        "hasOdds": false,
+        "startTime": "2024-04-22T00:15:00.000Z",
+        "trueStartTime": null,
+        "trueEndTime": "2024-04-22T02:26:18.000Z",
+        "updatedAt": "2025-08-19T11:07:53.001Z",
+        "externalProviders": {
+            "betradarId": 46364661,
+            "mollybetId": null,
+            "opticoddsId": null,
+            "lsportsId": null,
+            "txoddsId": null,
+            "sofascoreId": null,
+            "betgeniusId": null,
+            "flashscoreId": null,
+            "pinnacleId": null,
+            "oddinId": null
+        },
+        "statusName": "Finished",
+        "participant1Name": "Los Angeles Galaxy",
+        "participant1ShortName": "LA Galaxy",
+        "participant1Abbr": "LAG",
+        "participant2Name": "San Jose Earthquakes",
+        "participant2ShortName": "San Jose",
+        "participant2Abbr": "SJ",
+        "sportName": "Soccer",
+        "tournamentSlug": "mls",
+        "categorySlug": "usa",
+        "categoryName": "USA",
+        "tournamentName": "MLS"
+    }
+]

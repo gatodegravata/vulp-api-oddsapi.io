@@ -1,0 +1,40 @@
+[
+    {
+        "fixtureId": "id1004038751229401",
+        "participant1Id": 1032477,
+        "participant2Id": 1032503,
+        "sportId": 10,
+        "tournamentId": 40387,
+        "seasonId": null,
+        "statusId": 2,
+        "hasOdds": false,
+        "startTime": "2024-08-16T15:00:00.000Z",
+        "trueStartTime": null,
+        "trueEndTime": null,
+        "updatedAt": "2025-08-19T11:40:54.426Z",
+        "externalProviders": {
+            "betradarId": 51229401,
+            "mollybetId": null,
+            "opticoddsId": null,
+            "lsportsId": null,
+            "txoddsId": null,
+            "sofascoreId": null,
+            "betgeniusId": null,
+            "flashscoreId": null,
+            "pinnacleId": null,
+            "oddinId": null
+        },
+        "statusName": "Finished",
+        "participant1Name": "Club Puebla",
+        "participant1ShortName": null,
+        "participant1Abbr": null,
+        "participant2Name": "Rayados de Monterrey U23",
+        "participant2ShortName": null,
+        "participant2Abbr": null,
+        "sportName": "Soccer",
+        "tournamentSlug": "u23-liga-mx",
+        "categorySlug": "mexico",
+        "categoryName": "Mexico",
+        "tournamentName": "U23 Liga MX"
+    }
+]
