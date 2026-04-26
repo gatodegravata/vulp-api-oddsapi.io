@@ -1,8 +1,8 @@
 name: Executar Processamento de Odds
 
 on:
-  schedule:
-    - cron: '0 9,21 * * *' # 09:00 e 21:00 UTC (06h e 18h Brasília)
+  #schedule:
+    #- cron: '0 9,21 * * *' # 09:00 e 21:00 UTC (06h e 18h Brasília)
   workflow_dispatch:
 
 jobs:
