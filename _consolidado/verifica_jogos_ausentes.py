@@ -5,8 +5,8 @@ import glob
 # ======================================================
 # CAMINHOS (Windows)
 # ======================================================
-PATH_JOGOS = r"C:\proj\apostas\api-oddsapi.io\jogos\nao-processadas-odds"
-PATH_ODDS = r"C:\proj\apostas\analise-pontual\oddsapi.io\odds\abril"
+PATH_JOGOS = r"C:\proj\apostas\api-oddsapi.io\jogos\odds-baixadas\a"
+PATH_ODDS = r"C:\proj\apostas\api-oddsapi.io\odds\april"
 
 def conferir_downloads():
     # 1. Coletar todos os fixtureIds que estão nas LISTAS de jogos
